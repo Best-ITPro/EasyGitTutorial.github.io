@@ -1,0 +1,38 @@
+
+body {
+	margin: 0;
+	padding: 0;
+/*
+	display: flex;
+	justify-content: center; 
+	
+*/
+	-webkit-font-smoothing: antialiased;
+	-moz-font-smoothing: antialiased;
+	-o-font-smoothing: antialiased;
+	-ms-font-smoothing: antialiased;
+
+	-webkit-overflow-scrolling: touch;
+	-moz-overflow-scrolling: touch;
+	-o-overflow-scrolling: touch;
+	-ms-overflow-scrolling: touch;
+
+	font-family: 'Verdana', serif;
+
+		
+	background: url('../img/bg.jpg') no-repeat center top;
+    
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	
+
+}
+
+.container {
+
+	margin: 20px;
+	padding-left: 25px;
+
+}
